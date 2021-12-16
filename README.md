@@ -1,5 +1,7 @@
-# Ihre Revolution (Her Revolution)
-AR Project with the theme of street signs with female name in Berlin. 
+# Quad Action
+Toy project made with C# language. Quad view 3D action game.
+Implementing enemy and missile with AI that tracks players, 
+storing player scores, and updating the highest record.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -35,14 +37,13 @@ AR Project with the theme of street signs with female name in Berlin.
 
 <img src ="https://github.com/byeongujin/AR_IhreRevolution/blob/main/images/screenshot1.png" width = "300" height = "500"> <img src ="https://github.com/byeongujin/AR_IhreRevolution/blob/main/images/screenshot2.png" width = "300" height = "500">
 
-Watch [Demo video](https://drive.google.com/drive/folders/1jSU6mGa_w9yQfNTAtduaV9eYeY8KYl_z?usp=sharing)
+Watch [Demo video](https://drive.google.com/file/d/1t7RhjxAZgqXh-p879hWog7kOL6FfN6Ew/view?usp=sharing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-* Unity 2020.3.24f1
-* AR Foundation
+* Unity 2021.2.5f1
 * C#
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -54,13 +55,14 @@ Watch [Demo video](https://drive.google.com/drive/folders/1jSU6mGa_w9yQfNTAtduaV
 
 ### Prerequisites
 
-* IhreRevolution app.
+* Your Computer
 
 ### Installation
 
-1. app. Download(Android) [Here](https://drive.google.com/file/d/1qpYIcEmxCgMl2c-wXpsYNWekiY24d4Lp/view?usp=sharing)
-2. Install on your Smart Device
-3. Run
+1. app. Download
+    - Windows : [Here](https://drive.google.com/file/d/1C1oxFdDXKpGHe-GFzO9vltpFcSSmrzIN/view?usp=sharing)
+    - Mac : [Here](https://drive.google.com/drive/folders/19RJuZFLue7H7FVF62qt-afbEgU4lYv_B?usp=sharing)
+2. Run
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -68,18 +70,7 @@ Watch [Demo video](https://drive.google.com/drive/folders/1jSU6mGa_w9yQfNTAtduaV
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Hold the Smart Device in front of the _attached image on street sign pillar_ and fit the image within the camera view to scan.
-
-* image location
-  ```
-  * Rosa-Luxemburg-Straße
-  * Melli-Beese-Straße
-  * Kollwitzstraße
-  * Lise-Meitner-Straße
-  * Bertha-Benz-Straße
-  ```
-
-For more information, please refer to the [Project Hompage](http://oktopusmagazine.com/arproject)
+Just play
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -87,7 +78,7 @@ For more information, please refer to the [Project Hompage](http://oktopusmagazi
 
 <!-- LANGUAGE -->
 ## Language
-Korean, German
+English
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -118,7 +109,8 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.<p>
+Character Asset Package © Goldmetal
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
