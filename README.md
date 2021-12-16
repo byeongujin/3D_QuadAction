@@ -35,7 +35,8 @@ storing player scores, and updating the highest record.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src ="https://github.com/byeongujin/AR_IhreRevolution/blob/main/images/screenshot1.png" width = "300" height = "500"> <img src ="https://github.com/byeongujin/AR_IhreRevolution/blob/main/images/screenshot2.png" width = "300" height = "500">
+<img src ="https://github.com/byeongujin/3D_QuadAction/blob/main/images/screenschot1.png" width = "450" height = "250"> <img src ="https://github.com/byeongujin/3D_QuadAction/blob/main/images/screenschot2.png" width = "450" height = "250">
+<img src ="https://github.com/byeongujin/3D_QuadAction/blob/main/images/screenschot3.png" width = "450" height = "250"> <img src ="https://github.com/byeongujin/3D_QuadAction/blob/main/images/screenschot4.png" width = "450" height = "250">
 
 Watch [Demo video](https://drive.google.com/file/d/1t7RhjxAZgqXh-p879hWog7kOL6FfN6Ew/view?usp=sharing)
 
